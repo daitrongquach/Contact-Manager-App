@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Screen Shot][product-screenshot]](./public/img/product-screenshot.PNG)
+![Product Screen Shot](./public/img/product-screenshot.PNG)
 
 
 
