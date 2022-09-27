@@ -1,0 +1,39 @@
+initialize project:
+npx create-react-app .
+
+Bootstrap:
+npm i boostrap
+-> css, js -> index.js
+
+
+fontawesome icons:
+npm i font-awesome#
+-> css -> index.js
+
+connect fontawesome cdn link to html page
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+-> index.html
+
+axios:
+npm i axios
+
+react-router-dom:
+npm i react-router-dom
+
+components: navbar, contact-list, view-contact, edit-contact, add-contact
+services: ContactService
+
+json-file -> db.json
+package.json -> npm init --yes
+json-server -> npm install json-server
+
+GET all contacts: GET -> http://localhost:3000/contacts
+
+Get a Single contact : GET -> http://localhost:3000/contacts/:id
+
+Create a contact : POST -> http://localhost:3000/contacts/
+
+Update a contact : PUT -> http://localhost:3000/contacts/:id
+
+DELETE a contact : DELETE -> http://localhost:3000/contacts/:id
