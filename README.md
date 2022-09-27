@@ -33,7 +33,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 1. About The Project
 ![Product Screenshot](./public/img/product-screenshot.PNG "Product Screenshot")
 
 This is a simple web application that helps manage users' contacts. It includes the following functions:
@@ -41,6 +41,12 @@ This is a simple web application that helps manage users' contacts. It includes 
 - View details of each contact.
 - Add new contact.
 - Delete contact.
+
+### Build with
+This project is built with the following add-on/plugins:
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+- ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
