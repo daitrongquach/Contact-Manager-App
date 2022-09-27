@@ -33,7 +33,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## 1. About The Project
+## About The Project
 ![Product Screenshot](./public/img/product-screenshot.PNG "Product Screenshot")
 
 This is a simple web application that helps manage users' contacts. It includes the following functions:
