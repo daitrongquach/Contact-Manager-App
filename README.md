@@ -34,9 +34,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Screen Shot](./public/img/product-screenshot.PNG)
+![Product Screenshot](./public/img/product-screenshot.PNG "Product Screenshot")
 
-
+This is a simple web application that helps manage users' contacts. It includes the following functions:
+- Show contact list.
+- View details of each contact.
+- Add new contact.
+- Delete contact.
 
 
 
