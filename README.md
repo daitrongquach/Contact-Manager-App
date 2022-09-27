@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Screen Shot][product-screenshot]](/public/img/product-screenshot.PNG "Product Screenshot")
+[![Product Screen Shot][product-screenshot]](https://github.com/daitrongquach/react-contact-manager-app/blob/master/public/img/product-screenshot.PNG "Product Screenshot")
 
 
 
