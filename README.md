@@ -1,6 +1,6 @@
 <!-- PROJECT NAME -->
 <div align="center">
-  <h3 align="center">Contact Manager App</h3>
+  <h1 align="center">Contact Manager App</h1>
   <p align="center">
     Web application that manages contacts including functions like viewing, adding, editing, deleting contacts.
   </p>
