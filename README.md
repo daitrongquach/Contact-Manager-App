@@ -42,6 +42,7 @@ This is a simple web application that helps manage users' contacts. It includes 
 - Add new contact.
 - Delete contact.
 
+<!-- Build With -->
 ### Build with
 This project is built with the following add-on/plugins:
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
