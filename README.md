@@ -46,7 +46,7 @@ This is a simple web application that helps manage users' contacts. It includes 
 This project is built with the following add-on/plugins:
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 - ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 
 
