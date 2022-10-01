@@ -13,7 +13,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="##built-with">Built With</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -36,8 +36,9 @@
 ## About The Project
 ![Product Screenshot](./public/img/product-screenshot.PNG "Product Screenshot")
 
-This is a simple web application that helps manage users' contacts. It includes the following functions:
+This is a web application that helps manage users' contacts. It includes the following functionalities:
 - Show contact list.
+- Search contact.
 - View details of each contact.
 - Add new contact.
 - Delete contact.
@@ -53,8 +54,12 @@ This project is built with the following add-on/plugins:
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-ED8B00?style=flat&logo=font-awesome&logoColor=white)
 - ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-CA4245?style=flat&logo=react-router&logoColor=white)
 
+<!-- GETTING STARTED -->
+## Getting Started
 
-
+<!-- Prerequisites -->
+### Prerequisites
+- The app is based on 
 
 
 ---
