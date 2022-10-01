@@ -49,7 +49,7 @@ This project is built with the following add-on/plugins:
 - ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - ![Axios](https://img.shields.io/badge/Axios-F7DF1E?style=flat&logo=axios&logoColor=white)
-- ![Json-Server](https://img.shields.io/badge/Json_Server-14354C?style=flat&logo=json-server&logoColor=white)
+- ![Json-Server](https://img.shields.io/badge/Json_Server-14354C?style=flat&logo=json&logoColor=white)
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-ED8B00?style=flat&logo=font-awesome&logoColor=white)
 - ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-CA4245?style=flat&logo=react-router-dom&logoColor=white)
 
