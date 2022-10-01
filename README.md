@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">Contact Manager App</h1>
   <p align="center">
-    Web application that manages contacts including functions like viewing, adding, editing, deleting contacts.
+    Web application for managing contacts including CRUD-features.
   </p>
 </div>
 
