@@ -105,7 +105,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <!-- CONTACT -->
 ## Contact
-Dai Trong Quach - quachdaitrong.ict.1992@gmail.com | quachdaitrong_ict_1992@yahoo.com.vn
+Dai Trong Quach - quachdaitrong.ict.1992@gmail.com | quachdaitrong_ict_1992@yahoo.com.vn</br>
 Project Link: https://github.com/daitrongquach/Contact-Manager-App
 
 ---
