@@ -89,7 +89,9 @@ npm start
 ```
 - Use the app by visiting: http://localhost:3000/
 
-
+<!-- SITEMAP -->
+## Sitemap
+![Sitemap](./public/img/site-map.drawio.png "Sitemap")
 
 ---
 
