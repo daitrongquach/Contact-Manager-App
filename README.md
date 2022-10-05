@@ -51,7 +51,7 @@ This project is built with the following add-on/plugins:
 - ![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - ![Axios](https://img.shields.io/badge/Axios-F7DF1E?style=flat&logo=axios&logoColor=white)
-- ![Json Server](https://img.shields.io/badge/Json_Server-14354C?style=flat&logo=json&logoColor=white)
+- ![JSON Server](https://img.shields.io/badge/Json_Server-14354C?style=flat&logo=json&logoColor=white)
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-ED8B00?style=flat&logo=font-awesome&logoColor=white)
 - ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-CA4245?style=flat&logo=react-router&logoColor=white)
 
@@ -61,6 +61,34 @@ This project is built with the following add-on/plugins:
 <!-- PREREQUISITES -->
 ### Prerequisites
 The project is based on ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) and ![Npm](http://img.shields.io/badge/npm-072401?style=flat&logo=npm&logoColor=ffffff).
+
+<!-- INSTALLATION -->
+### Installation
+1. Clone the repo:
+```
+git clone https://github.com/daitrongquach/Contact-Manager-App.git
+```
+2. JSON Server:
+- Navigate to the folder containing the contact records named 'server':
+```
+cd your_path/Contact-Manager-App/server
+```
+- Start JSON Server
+```
+npm start
+```
+- Check contact record list by visiting: http://localhost:3001/
+3. Contact Manager App:
+- Navigate to the project directory:
+```
+cd your_path/Contact-Manager-App
+```
+- Start the app:
+```
+npm start
+```
+- Use the app by visiting: http://localhost:3000/
+
 
 
 ---
