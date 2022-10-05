@@ -73,7 +73,7 @@ git clone https://github.com/daitrongquach/Contact-Manager-App.git
 ```
 cd your_path/Contact-Manager-App/server
 ```
-- Start JSON Server
+- Start JSON Server:
 ```
 npm start
 ```
