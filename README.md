@@ -35,7 +35,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![Product Screenshot](./public/img/product-screenshot.PNG "Product Screenshot")
-
 This is a web application which helps to manage user's contacts. It includes the following functionalities:
 - Show contact list.
 - Search contact.
